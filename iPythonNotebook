@@ -1,0 +1,27 @@
+​
+Hi all
+
+Please find below the common keyboard short-cuts
+
+There are many available, however these are the ones frequently used/required when working on iPython Notebook.
+
+    Y : to code
+    M : to markdown
+    R : to raw
+    1 : heading 1, this can go up to 6, which changes the heading style
+    Up Arrow or K: select cell above
+    Down Arrow or J: select cell below
+    Shift - Enter : run the selected cell, and then select below cell
+    Ctrl - Enter : run the selected cell
+    Alt - Enter : run the selected cell, insert a cell below
+    D,D : Delete the cell (press D key twice)
+
+And if the kernel gets stuck or it suspends...
+
+    I,I : interrupt kernel
+    0,0 : restart kernel ( this is number zero :)) 
+
+Happy Learning!! Keep sharing!! :)
+
+Thanks
+Viraj
