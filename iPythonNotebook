@@ -14,6 +14,7 @@ There are many available, however these are the ones frequently used/required wh
     Shift - Enter : run the selected cell, and then select below cell
     Ctrl - Enter : run the selected cell
     Alt - Enter : run the selected cell, insert a cell below
+    B : Add a Cell below the current one
     D,D : Delete the cell (press D key twice)
 
 And if the kernel gets stuck or it suspends...
